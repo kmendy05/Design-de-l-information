@@ -9,4 +9,4 @@ Pour accéder à ma page web  [cliquez ici](https://kmendy05.github.io/Design-de
 réaliser par MENDY Elisabeth.
 Master 2 GSI
 
-Version, 30 octobre 2023, ACHÈRES.
+Version 1.0, 30/10/2023
