@@ -4,7 +4,7 @@ Master GSI
 
 Ceci est mon travail sur le cours Design de l'Information du  [Master GSI](https://humanites-numeriques.univ-paris8.fr/-Master-G-S-I-).
 
-Pour accéder à ma page web  [cliquez ici](file:///Users/user/Desktop/Elisabeth%20Cours%20design%20de%20l'info/index.html).
+Pour accéder à ma page web  [cliquez ici](https://mail.google.com/mail/u/0/#inbox)
 
 réaliser par Elisabeth Mendy.
 Master 2 GSI
